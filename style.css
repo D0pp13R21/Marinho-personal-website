@@ -114,7 +114,7 @@ b{
 
 h1{
     display: block;
-    font-size: 7em;
+    font-size: 3em;
     font-weight: 900;
     color:#3d535f;
 }
@@ -130,6 +130,11 @@ p{
    font-size: 1.2em;
     color: #3d535f;
 }
+
+/* .paragraph{
+    margin-top: 10rem;
+    position: inherit;
+} */
 
 .btns{
     width: 100%;
